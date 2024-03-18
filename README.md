@@ -26,9 +26,9 @@ tsu
  ```
 **Getting OneShot**
  ```
- git clone https://github.com/BijayaTamangShyangtan/BJROOTWIFIHK
+ 
  ```
-
+git clone https://github.com/BijayaTamangShyangtan/BJROOTWIFIHK
 ### USE
 ```
 ls
