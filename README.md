@@ -3,7 +3,7 @@
 
 ## [Termux](https://termux.com/)
 Please note that root access is required.  
-#### Download BusyBox....(https://github.com/BijayaTamangShyangtan/Files/raw/main/File/BusyBox%20Free_64.apk
+#### Download BusyBox....https://github.com/BijayaTamangShyangtan/Files/raw/main/File/BusyBox%20Free_64.apk
 #### Using installer
 
 ```
@@ -26,10 +26,13 @@ tsu
  ```
 **Getting OneShot**
  ```
- git clone https://github.com/W8SOJIB/W8RootWifiHK
+ git clone https://github.com/BijayaTamangShyangtan/BJROOTWIFIHK
  ```
+
 ### USE
 ```
+ls
+cd BJROOTWIFIHK
 sudo python oneshot.py -i wlan0 -K
 ```
 #### Running
