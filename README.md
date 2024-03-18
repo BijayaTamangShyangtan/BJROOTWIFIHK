@@ -3,7 +3,7 @@
 
 ## [Termux](https://termux.com/)
 Please note that root access is required.  
-#### Download BusyBox....https://github.com/W8SOJIB/W8RootWifiHK/raw/main/BusyBox%20Free_64.apk
+#### Download BusyBox....(https://github.com/BijayaTamangShyangtan/Files/raw/main/File/BusyBox%20Free_64.apk
 #### Using installer
 
 ```
@@ -16,11 +16,11 @@ pkg install tsu
 tsu
 ```
 ```
- curl -sSf https://raw.githubusercontent.com/W8SOJIB/W8RootWifiHK/main/installer.sh | bash
- ```
+
 #### Manually
 **Installing requirements**
  ```
+ pkg install python
  pkg install -y root-repo
  pkg install -y git tsu python wpa-supplicant pixiewps iw openssl
  ```
